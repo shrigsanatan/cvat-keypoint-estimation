@@ -12,3 +12,6 @@ This version includes:
 ## License
 
 The original CVAT code is licensed under the MIT License.
+
+## Set Up Nuclio for CVAT pre-trained Model
+
