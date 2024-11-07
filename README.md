@@ -1,4 +1,4 @@
-# cvat-keypoint-estimation
+# Cvat-keypoint-estimation
 
 # Custom CVAT with Pose Estimation
 
@@ -13,5 +13,5 @@ This version includes:
 
 The original CVAT code is licensed under the MIT License.
 
-## Set Up Nuclio for CVAT pre-trained Model
+## CVAT with Serverless Machine Learning Models
 
